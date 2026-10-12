@@ -1,0 +1,8 @@
+# Local settings and scratch files
+profile.txt
+*.log
+*.tmp
+*.pdb
+bin/
+obj/
+.vs/
